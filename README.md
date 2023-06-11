@@ -19,5 +19,5 @@ achieve complete synchronisation between a local machine and a cloud database. U
 Apache Kafka as the streaming platform, it demonstrated its ability to facilitate the 
 transmission of data between on-premise and cloud databas
 
-# Testbed Design
+# Implemented Testbed Design 
 ![image](https://github.com/rfunnn/Testbed-Data-Sync-with-Kafka/assets/81603864/ac232050-1f11-4ba4-ac59-c2f8a581d10b)
